@@ -1,0 +1,11 @@
+baseURL = 'https://slepox.me/'
+languageCode = 'en-us'
+title = "z'Log"
+theme = 'LoveIt'
+hasCJKLanguage = true
+
+[author]
+  name = "Zack"
+  email = "zyang@slepox.me"
+  link = "https://slepox.me"
+

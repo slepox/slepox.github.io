@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>z&#39;Log</title>
+        <link>https://slepox.me/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zyang@slepox.me (Zack)</managingEditor>
+            <webMaster>zyang@slepox.me (Zack)</webMaster>
+            <atom:link href="https://slepox.me/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

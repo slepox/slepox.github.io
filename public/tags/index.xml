@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - z&#39;Log</title>
+        <link>https://slepox.me/tags/</link>
+        <description>Tags - Tag - z&#39;Log</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>zyang@slepox.me (Zack)</managingEditor>
+            <webMaster>zyang@slepox.me (Zack)</webMaster><atom:link href="https://slepox.me/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
