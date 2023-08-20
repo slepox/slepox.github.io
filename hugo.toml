@@ -1,5 +1,5 @@
 baseURL = 'https://slepox.github.io/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = "sLog"
 theme = 'LoveIt'
 hasCJKLanguage = true
@@ -9,3 +9,22 @@ hasCJKLanguage = true
   email = "slepox@gmail.com"
   link = "https://slepox.github.io"
 
+[params]
+  defaultTheme = "auto"
+  gitRepo = "https://github.com/slepox/slepox.github.io"
+  dateFormat = "2006-01-02"
+
+  [params.home]
+    [params.home.profile]
+      enable = true
+      gravatarEmail = "slepox@gmail.com"
+      title = "North of Sky"
+      social = true
+  
+  [params.social]
+    GitHub = "slepox"
+    Linkedin = "slepox"
+    Twitter = "slepox"
+    Instagram = "slepox"
+    Facebook = "slepox"
+    
