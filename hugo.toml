@@ -1,11 +1,11 @@
-baseURL = 'https://slepox.me/'
+baseURL = 'https://slepox.github.io/'
 languageCode = 'en-us'
-title = "z'Log"
+title = "sLog"
 theme = 'LoveIt'
 hasCJKLanguage = true
 
 [author]
-  name = "Zack"
-  email = "zyang@slepox.me"
-  link = "https://slepox.me"
+  name = "slepox"
+  email = "slepox@gmail.com"
+  link = "https://slepox.github.io"
 
