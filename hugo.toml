@@ -14,11 +14,19 @@ hasCJKLanguage = true
   gitRepo = "https://github.com/slepox/slepox.github.io"
   dateFormat = "2006-01-02"
 
+  [params.header]
+    [params.header.title]
+      name = "North of SKY"
+  
+  [params.footer]
+    since = 2023
+
   [params.home]
     [params.home.profile]
       enable = true
       gravatarEmail = "slepox@gmail.com"
-      title = "North of Sky"
+      title = "North of SKY"
+      subtitle = "Every star has a desnity"
       social = true
   
   [params.social]
