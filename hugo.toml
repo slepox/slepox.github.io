@@ -1,6 +1,6 @@
 baseURL = 'https://slepox.github.io/'
 languageCode = 'en'
-title = "sLog"
+title = "Zack's Logs"
 theme = 'LoveIt'
 hasCJKLanguage = true
 
@@ -16,7 +16,7 @@ hasCJKLanguage = true
 
   [params.header]
     [params.header.title]
-      name = "North of SKY"
+      name = "Zack's Logs"
   
   [params.footer]
     since = 2023
@@ -25,8 +25,8 @@ hasCJKLanguage = true
     [params.home.profile]
       enable = true
       gravatarEmail = "slepox@gmail.com"
-      title = "North of SKY"
-      subtitle = "Every star has a desnity"
+      title = "Zack's Logs"
+      subtitle = "Do not go gentle into that good night."
       social = true
   
   [params.social]
@@ -34,5 +34,3 @@ hasCJKLanguage = true
     Linkedin = "slepox"
     Twitter = "slepox"
     Instagram = "slepox"
-    Facebook = "slepox"
-    
